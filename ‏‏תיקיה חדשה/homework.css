@@ -1,0 +1,52 @@
+#animals{
+    width: 100%;
+    padding: 200px;
+    display: flex;
+    flex-wrap: wrap;    
+}
+.cat{
+width: 600px;
+padding: 10px;
+text-align: center;
+border-style: solid;
+border-radius: 16px;
+margin: 10px;
+font-size: 40px;
+}
+
+.cat{
+    width: 600px;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 16px;
+    margin: 10px;
+    font-size: 40px;
+    }.dog{
+
+        width: 600px;
+        padding: 10px;
+        text-align: center;
+        border-style: solid;
+        border-radius: 16px;
+        margin: 10px;
+        font-size: 40px;
+        }.lion{
+
+            width: 600px;
+            padding: 10px;
+            text-align: center;
+            border-style: solid;
+            border-radius: 16px;
+            margin: 10px;
+            font-size: 40px;
+            }.elephant{
+
+                width: 600px;
+                padding: 10px;
+                text-align: center;
+                border-style: solid;
+                border-radius: 16px;
+                margin: 10px;
+                font-size: 40px;
+                }
